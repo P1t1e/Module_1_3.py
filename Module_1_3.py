@@ -1,9 +1,8 @@
-name = 'Руслан'
-print(name, type(name))
+name = 'Ruslan'
+print('Name:', name)
 age = 22
-print(age, type(age))
+print('Age:', (age))
 new_age = age + 5
-print(new_age, type(new_age))
-name = 'is_student'
+print('New age:', new_age)
+name = 'Is_student:'
 print(name,bool(name))
-print(name, type(name))
